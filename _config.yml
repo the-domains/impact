@@ -1,0 +1,23 @@
+name: Impact
+favicon: null
+layout_spectrum: 0.5686158007010818
+typography_spectrum: 0.32135020778514445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6601032179314643
+  lightness: 0.5335795609280467
+  saturation: 0.5268561998382211
+  rhythmicContrast: 0.8331911896821111
+purpose: []
